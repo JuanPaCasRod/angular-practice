@@ -9,7 +9,7 @@ import { Videojuegos } from './components/videojuegos/videojuegos';
   styleUrl: './app.css'
 })
 export class App {
-  nombreProyecto = 'Aprendiendo Angular 19 en adelante angular-practice';
-  descripcion = 'Esto es una clase rapida de repaso de Angular moderno';
+  nombreProyecto = 'Hello, angular-practice';
+  descripcion = 'Angular 19 practice';
   profesor = 'Juan Pablo Castilla';
 }
